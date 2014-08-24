@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C641495E-AB3C-48B5-A72E-D3705147B92F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>netcat</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>10970BA2325C2B8EDEBF91E643079A2AA0944642</key>
+		<string>ssh://github.com/rterbush/macosx-openbsd-netcat.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>netcat.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>10970BA2325C2B8EDEBF91E643079A2AA0944642</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/rterbush/macosx-openbsd-netcat.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>10970BA2325C2B8EDEBF91E643079A2AA0944642</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>10970BA2325C2B8EDEBF91E643079A2AA0944642</string>
+			<key>IDESourceControlWCCName</key>
+			<string>macosx-openbsd-netcat</string>
+		</dict>
+	</array>
+</dict>
+</plist>
